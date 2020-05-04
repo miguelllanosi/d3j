@@ -1,0 +1,130 @@
+[
+ {
+   "Estado": "Aguascalientes",
+   "Casos": 267
+ },
+ {
+   "Estado": "Baja California",
+   "Casos": 1676
+ },
+ {
+   "Estado": "Baja California Sur",
+   "Casos": 339
+ },
+ {
+   "Estado": "Campeche",
+   "Casos": 161
+ },
+ {
+   "Estado": "Chiapas",
+   "Casos": 222
+ },
+ {
+   "Estado": "Chihuahua",
+   "Casos": 513
+ },
+ {
+   "Estado": "CDMX",
+   "Casos": 7486
+ },
+ {
+   "Estado": "Coahuila",
+   "Casos": 450
+ },
+ {
+   "Estado": "Colima",
+   "Casos": 28
+ },
+ {
+   "Estado": "Durango",
+   "Casos": 74
+ },
+ {
+   "Estado": "Guanajuato",
+   "Casos": 308
+ },
+ {
+   "Estado": "Guerrero",
+   "Casos": 332
+ },
+ {
+   "Estado": "Hidalgo",
+   "Casos": 307
+ },
+ {
+   "Estado": "Jalisco",
+   "Casos": 419
+ },
+ {
+   "Estado": "Mexico",
+   "Casos": 2842
+ },
+ {
+   "Estado": "Michoacan",
+   "Casos": 381
+ },
+ {
+   "Estado": "Morelos",
+   "Casos": 413
+ },
+ {
+   "Estado": "Nayarit",
+   "Casos": 107
+ },
+ {
+   "Estado": "Nuevo Leon",
+   "Casos": 428
+ },
+ {
+   "Estado": "Oaxaca",
+   "Casos": 164
+ },
+ {
+   "Estado": "Puebla",
+   "Casos": 815
+ },
+ {
+   "Estado": "Queretaro",
+   "Casos": 165
+ },
+ {
+   "Estado": "Quintana Roo",
+   "Casos": 900
+ },
+ {
+   "Estado": "San Luis Potosi",
+   "Casos": 145
+ },
+ {
+   "Estado": "Sinaloa",
+   "Casos": 1125
+ },
+ {
+   "Estado": "Sonora",
+   "Casos": 239
+ },
+ {
+   "Estado": "Tabasco",
+   "Casos": 1185
+ },
+ {
+   "Estado": "Tamaulipas",
+   "Casos": 381
+ },
+ {
+   "Estado": "Tlaxcala",
+   "Casos": 246
+ },
+ {
+   "Estado": "Veracruz",
+   "Casos": 673
+ },
+ {
+   "Estado": "Yucatan",
+   "Casos": 584
+ },
+ {
+   "Estado": "Zacatecas",
+   "Casos": 96
+ }
+]
